@@ -4,11 +4,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1100&color=29C7D4&center=true&vCenter=true&width=850&height=60&lines=Computational+Chemistry+%7C+Chemoinformatics;Machine+Learning+for+Drug+Discovery;Molecular+Docking+%26+Dynamics;Building+Open+Scientific+Software" alt="Animated research interests" /></a>
 
-**Lecturer in Chemistry · Researcher · Scientific Python Developer**  
-*Computational approaches to molecular discovery, analysis and reproducible research*
+<strong>Lecturer in Chemistry · Researcher · Scientific Python Developer</strong>  
+<em>Computational approaches to molecular discovery, analysis and reproducible research</em>
 
-[![GitHub followers](https://img.shields.io/github/followers/peterDataScientia?style=for-the-badge&logo=github&label=Followers&color=0A97A7)](https://github.com/peterDataScientia?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=peterDataScientia&label=Profile%20Views&color=0A97A7&style=for-the-badge)](https://github.com/peterDataScientia)
+<a href="https://github.com/peterDataScientia?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/peterDataScientia?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=0A97A7" /></a>
+<a href="https://github.com/peterDataScientia"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=peterDataScientia&amp;label=Profile%20Views&amp;color=0A97A7&amp;style=for-the-badge" /></a>
 
 </div>
 
@@ -46,11 +46,11 @@ I work at the interface of chemistry, computation and drug discovery. My reposit
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Scientific%20Computing-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![RDKit](https://img.shields.io/badge/RDKit-Cheminformatics-148A90?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<img alt="Python" src="https://img.shields.io/badge/Python-Scientific%20Computing-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" />
+<img alt="RDKit" src="https://img.shields.io/badge/RDKit-Cheminformatics-148A90?style=for-the-badge" />
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" />
 
 </div>
 
@@ -63,6 +63,8 @@ I work at the interface of chemistry, computation and drug discovery. My reposit
 </div>
 
 ### 🐍 Contribution animation
+
+[![Generate contribution snake](https://github.com/peterDataScientia/peterDataScientia/actions/workflows/snake.yml/badge.svg)](https://github.com/peterDataScientia/peterDataScientia/actions/workflows/snake.yml)
 
 <div align="center">
 
@@ -79,8 +81,8 @@ I work at the interface of chemistry, computation and drug discovery. My reposit
 
 <div align="center">
 
-**From molecular questions to computational insight.**
+<strong>From molecular questions to computational insight.</strong>
 
-[Explore all repositories](https://github.com/peterDataScientia?tab=repositories) · [Scientific figure toolkit](https://github.com/peterDataScientia/figentra) · [Docking software](https://github.com/peterDataScientia/PanDoc)
+<a href="https://github.com/peterDataScientia?tab=repositories">Explore all repositories</a> · <a href="https://github.com/peterDataScientia/figentra">Scientific figure toolkit</a> · <a href="https://github.com/peterDataScientia/PanDoc">Docking software</a>
 
 </div>
