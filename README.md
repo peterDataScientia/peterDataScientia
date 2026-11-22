@@ -61,27 +61,7 @@
 <tr><td>Materials informatics</td><td>Thermal degradation modeling in perovskite solar cells</td><td><a href="https://github.com/peterDataScientia/PVC">PVC</a></td></tr>
 </table>
 
-## 03 / MY WAY OF THINKING ABOUT COMPUTATIONAL SCIENCE
-
-```text
-    CHEMICAL QUESTION
-           │
-           ▼
-    DATA + PROVENANCE ─────► Is this endpoint comparable?
-           │
-           ▼
-    MODEL + VALIDATION ────► Does performance survive a hard split?
-           │
-           ▼
-    MOLECULAR MECHANISM ───► Is the interpretation chemically plausible?
-           │
-           ▼
-    REPRODUCIBLE OUTPUT ───► Could someone else check every step?
-```
-
-> **The result matters. The reasoning that makes it trustworthy matters more.**
-
-## 04 / THE MOVING LAB
+## 03 / THE MOVING LAB
 
 <div align="center">
   <img src="./assets/lab-signal.svg" alt="Animated molecular signal showing experiments and validation checkpoints" width="100%" />
