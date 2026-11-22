@@ -8,7 +8,7 @@
 
 ## Not just another computational pipeline.
 
-I am a **Lecturer in Chemistry** working across **chemoinformatics, molecular modelling, machine learning and scientific software engineering**. I build tools for the questions that come **before** and **after** a computational result: *Was the input chemically sound? Can we reproduce the calculation? Can someone independently inspect the evidence?*
+This work spans **chemoinformatics, molecular modelling, machine learning and scientific software engineering**, with tools addressing the questions that come **before** and **after** a computational result: *Was the input chemically sound? Can we reproduce the calculation? Can someone independently inspect the evidence?*
 
 My work connects **molecules → models → mechanisms → interpretable scientific outputs**.
 
