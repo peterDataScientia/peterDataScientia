@@ -67,8 +67,6 @@
   <img src="./assets/lab-signal.svg" alt="Animated molecular signal showing experiments and validation checkpoints" width="100%" />
 </div>
 
-My public work is organized around **scientific questions, validated workflows and reusable tools**. The animation above is a custom laboratory signal rather than a decorative contribution statistic.
-
 **[Explore recent repository activity](https://github.com/peterDataScientia?tab=repositories)** · **[Browse open research tools](https://github.com/peterDataScientia?tab=repositories)**
 
 ---
