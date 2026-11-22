@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 205">
+<defs><style>
+.node{fill:#132e43;stroke:#3bb5b9;stroke-width:2}.heading{fill:#e7f9fb;font:700 18px Arial,sans-serif}.tiny{fill:#93bcc4;font:12px monospace}.line{stroke:#3de2d2;stroke-width:3;fill:none;stroke-dasharray:12 9;animation:dash 7s linear infinite}.dot{fill:#bffff6;animation:blink 2s ease-in-out infinite alternate}@keyframes dash{to{stroke-dashoffset:-180}}@keyframes blink{to{opacity:.25}}</style></defs>
+<rect width="1200" height="205" rx="14" fill="#0b1b2d"/>
+<text x="29" y="29" fill="#65dcd8" font-family="monospace" font-size="13" letter-spacing="3">THE RESEARCH LOOP / FROM ATOMS TO EVIDENCE</text>
+<path d="M105 99H1095" class="line"/>
+<g>
+<circle cx="125" cy="99" r="34" class="node"/><path d="M111 88l14-9 15 9v18l-15 9-14-9z" stroke="#84f7e9" fill="none" stroke-width="2"/><circle cx="125" cy="79" r="4" fill="#84f7e9"/>
+<circle cx="360" cy="99" r="34" class="node"/><path d="M344 112l11-16 13 8 12-22" stroke="#84f7e9" fill="none" stroke-width="3"/><circle cx="380" cy="82" r="4" fill="#84f7e9"/>
+<circle cx="600" cy="99" r="34" class="node"/><path d="M585 100l12-14 14 8 10-13M585 100l13 13 13-8" stroke="#84f7e9" stroke-width="3" fill="none"/>
+<circle cx="840" cy="99" r="34" class="node"/><circle cx="828" cy="94" r="6" fill="#84f7e9"/><circle cx="850" cy="85" r="6" fill="#84f7e9"/><circle cx="849" cy="108" r="6" fill="#84f7e9"/><path d="M833 91l12-6M832 98l13 9M851 91v11" stroke="#84f7e9" stroke-width="2"/>
+<circle cx="1075" cy="99" r="34" class="node"/><path d="M1056 112V93l12 7 9-18 13 12v18" fill="none" stroke="#84f7e9" stroke-width="3"/></g>
+<g text-anchor="middle"><text x="125" y="157" class="heading">Molecules</text><text x="125" y="177" class="tiny">Structure + chemistry</text><text x="360" y="157" class="heading">Models</text><text x="360" y="177" class="tiny">QSAR + simulation</text><text x="600" y="157" class="heading">Validation</text><text x="600" y="177" class="tiny">Uncertainty + AD</text><text x="840" y="157" class="heading">Mechanisms</text><text x="840" y="177" class="tiny">Contacts + networks</text><text x="1075" y="157" class="heading">Evidence</text><text x="1075" y="177" class="tiny">Figures + records</text></g>
+</svg>
