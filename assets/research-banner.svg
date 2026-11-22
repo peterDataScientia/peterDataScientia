@@ -18,14 +18,14 @@
 </defs>
 <rect width="1200" height="360" rx="12" fill="url(#bg)"/>
 <rect width="1200" height="360" fill="url(#grid)"/>
-<path d="M0 54H1200M0 305H1200" stroke="#4caeb0" stroke-opacity=".27"/>
-<text x="54" y="33" font-family="monospace" font-size="12" letter-spacing="3" fill="#7bbdc2">PDS / RESEARCH OBSERVATORY</text>
-<text x="1139" y="33" text-anchor="end" font-family="monospace" font-size="12" fill="#7bbdc2">LAB :: 001</text>
+<path d="M0 54H1200M0 305H1200" stroke="#4caeb0" stroke-opacity=".45"/>
+<text x="54" y="33" font-family="monospace" font-size="15" font-weight="800" letter-spacing="2" fill="#DBFAFF">PDS / RESEARCH OBSERVATORY</text>
+<text x="1139" y="33" text-anchor="end" font-family="monospace" font-size="15" font-weight="800" fill="#DBFAFF">LAB :: 001</text>
 <rect x="49" y="79" width="4" height="168" fill="#20d2cc"/>
-<text x="75" y="116" font-family="monospace" font-size="17" letter-spacing="4" fill="#50d8d3">MOLECULES · MODELS · MECHANISMS</text>
-<text x="72" y="175" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="800" letter-spacing="1" fill="#f2fdff">PETER</text>
-<text x="72" y="233" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="800" letter-spacing="1" fill="#f2fdff">DATASCIENTIA<tspan class="cursor" fill="#20d2cc">_</tspan></text>
-<text x="75" y="273" font-family="monospace" font-size="15" fill="#94bfc8">COMPUTATIONAL CHEMISTRY / SCIENTIFIC SOFTWARE</text>
+<text x="75" y="116" font-family="monospace" font-size="20" font-weight="800" letter-spacing="2" fill="#8FFFF2">MOLECULES · MODELS · MECHANISMS</text>
+<text x="72" y="175" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="900" letter-spacing="1" fill="#FFFFFF">PETER</text>
+<text x="72" y="233" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="900" letter-spacing="1" fill="#FFFFFF">DATASCIENTIA<tspan class="cursor" fill="#20d2cc">_</tspan></text>
+<text x="75" y="273" font-family="monospace" font-size="18" font-weight="800" fill="#ECFFFF">COMPUTATIONAL CHEMISTRY / SCIENTIFIC SOFTWARE</text>
 <g transform="translate(0 0)">
   <circle cx="980" cy="178" r="137" fill="#1ddacb" opacity=".06" filter="url(#soft)"/>
   <circle cx="980" cy="178" r="113" fill="none" stroke="#45bcc1" stroke-opacity=".32" stroke-dasharray="3 8"/>
@@ -41,6 +41,6 @@
   <circle class="pulse" cx="980" cy="178" r="12" fill="#defffd"/>
 </g>
 <path class="travel" d="M690 291h105l19-22 20 38 23-26h62" fill="none" stroke="#23e3d5" stroke-width="2" opacity=".8"/>
-<text x="52" y="333" font-family="monospace" font-size="12" fill="#7dbac2" letter-spacing="2">RESEARCH / OPEN METHODS / REPRODUCIBILITY</text>
-<text x="1147" y="333" font-family="monospace" font-size="12" fill="#7dbac2" text-anchor="end">IRINGA · TANZANIA</text>
+<text x="52" y="333" font-family="monospace" font-size="15" font-weight="800" fill="#E3FBFF" letter-spacing="2">RESEARCH / OPEN METHODS / REPRODUCIBILITY</text>
+<text x="1147" y="333" font-family="monospace" font-size="15" font-weight="800" fill="#E3FBFF" text-anchor="end">IRINGA · TANZANIA</text>
 </svg>
