@@ -50,7 +50,7 @@
 </td></tr>
 </table>
 
-## 02 / RESEARCH PROJECTS
+## 02 / RESEARCH
 
 <table>
 <tr><th align="left">Research track</th><th align="left">Focus</th><th align="left">Repository</th></tr>
