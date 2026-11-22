@@ -50,10 +50,10 @@
 </td></tr>
 </table>
 
-## 02 / RESEARCH QUESTIONS IN PROGRESS
+## 02 / RESEARCH PROJECTS
 
 <table>
-<tr><th align="left">Research track</th><th align="left">What I am investigating</th><th align="left">Repository</th></tr>
+<tr><th align="left">Research track</th><th align="left">Focus</th><th align="left">Repository</th></tr>
 <tr><td>BRD4 bromodomains</td><td>Domain-aware BD1 / BD2 molecular data and modeling</td><td><a href="https://github.com/peterDataScientia/BD1-BD2">BD1-BD2</a></td></tr>
 <tr><td>Network pharmacology</td><td>Target networks, hub interpretation and reproducible workflows</td><td><a href="https://github.com/peterDataScientia/Network_Pharmacology">Network_Pharmacology</a></td></tr>
 <tr><td>Evidence synthesis</td><td>Computational BRD4 drug-repurposing literature</td><td><a href="https://github.com/peterDataScientia/BRD4-RVW">BRD4-RVW</a></td></tr>
