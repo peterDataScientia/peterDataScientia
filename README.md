@@ -93,15 +93,9 @@ My work connects **molecules → models → mechanisms → interpretable scienti
   <img src="./assets/lab-signal.svg" alt="Animated molecular signal showing experiments and validation checkpoints" width="100%" />
 </div>
 
-The activity trail below is generated from GitHub contributions, not from fabricated research metrics.
+My public work is organized around **scientific questions, validated workflows and reusable tools**. The animation above is a custom laboratory signal rather than a decorative contribution statistic.
 
-<div align="center">
-  <a href="https://github.com/peterDataScientia/peterDataScientia/actions/workflows/snake.yml"><img src="https://github.com/peterDataScientia/peterDataScientia/actions/workflows/snake.yml/badge.svg" alt="Contribution animation workflow status" /></a>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peterDataScientia/peterDataScientia/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/peterDataScientia/peterDataScientia/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake (shown after first successful workflow run)" width="100%" />
-  </picture>
-</div>
+**[Explore recent repository activity](https://github.com/peterDataScientia?tab=repositories)** · **[Browse open research tools](https://github.com/peterDataScientia?tab=repositories)**
 
 ---
 
