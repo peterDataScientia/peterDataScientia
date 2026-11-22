@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Peter DataScientia</title><desc id="desc">Navy and turquoise molecular research profile banner</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset="1" stop-color="#173852"/></linearGradient><radialGradient id="halo"><stop stop-color="#26DBDC" stop-opacity=".22"/><stop offset="1" stop-color="#26DBDC" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+<circle cx="1040" cy="150" r="230" fill="url(#halo)"/>
+<g stroke="#38D6D8" stroke-opacity=".55" stroke-width="2" fill="none">
+<path d="M790 72 857 42 930 80 1008 53 1090 108 1145 70 M790 72 825 145 910 163 930 80 M825 145 784 226 876 254 910 163 992 218 1090 108 1147 192 992 218 M1008 53 1028 142 910 163 M1028 142 1090 108"/>
+</g>
+<g fill="#67F1EB"><circle cx="790" cy="72" r="7"/><circle cx="857" cy="42" r="5"/><circle cx="930" cy="80" r="9"/><circle cx="1008" cy="53" r="6"/><circle cx="1090" cy="108" r="10"/><circle cx="1145" cy="70" r="6"/><circle cx="825" cy="145" r="8"/><circle cx="910" cy="163" r="11"/><circle cx="784" cy="226" r="6"/><circle cx="876" cy="254" r="8"/><circle cx="992" cy="218" r="9"/><circle cx="1147" cy="192" r="6"/><circle cx="1028" cy="142" r="6"/></g>
+<g fill="#ffffff" font-family="Arial,Helvetica,sans-serif">
+<text x="66" y="113" font-size="51" font-weight="700" letter-spacing="1">PETER DATASCIENTIA</text>
+<text x="70" y="162" font-size="22" fill="#68E9E5" font-weight="600">COMPUTATIONAL CHEMISTRY  /  AI-DRIVEN DRUG DISCOVERY</text>
+<text x="70" y="205" font-size="20" fill="#C3D7E3">Chemoinformatics  •  Molecular Modeling  •  Scientific Software</text>
+</g>
+<path d="M70 235 H650" stroke="#32CBD3" stroke-width="3" opacity=".8"/>
+</svg>
