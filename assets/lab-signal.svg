@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150">
+<defs><linearGradient id="g"><stop stop-color="#091827"/><stop offset="1" stop-color="#13364a"/></linearGradient><style>
+.trace{fill:none;stroke:#38efdf;stroke-width:2.8;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 9s linear infinite}
+.scan{animation:scan 6s linear infinite}
+.blink{animation:blink 2.4s ease-in-out infinite alternate}
+@keyframes draw{0%{stroke-dashoffset:1400}62%,100%{stroke-dashoffset:0}}
+@keyframes scan{from{transform:translateX(-300px)}to{transform:translateX(1450px)}}
+@keyframes blink{to{opacity:.25}}
+</style></defs>
+<rect width="1200" height="150" rx="12" fill="url(#g)"/>
+<g stroke="#66bdbd" stroke-opacity=".12"><path d="M0 30H1200M0 60H1200M0 90H1200M0 120H1200M100 0V150M200 0V150M300 0V150M400 0V150M500 0V150M600 0V150M700 0V150M800 0V150M900 0V150M1000 0V150M1100 0V150"/></g>
+<text x="25" y="24" fill="#91d0d0" font-size="12" font-family="monospace" letter-spacing="2">SIGNAL 01 / RESEARCH IN MOTION</text>
+<path class="trace" d="M25 94 H100 L134 88 L161 102 L205 94 H302 L325 58 L353 121 L391 94 H484 L509 80 L535 94 L560 66 L588 115 L624 94 H724 L755 54 L780 110 L815 94 H917 L940 81 L962 99 L994 94 H1170"/>
+<rect class="scan" x="0" width="38" height="150" fill="#64fcf1" opacity=".10"/>
+<g class="blink" fill="#d5fff9"><circle cx="325" cy="58" r="5"/><circle cx="560" cy="66" r="5"/><circle cx="755" cy="54" r="5"/></g>
+<text x="1170" y="129" fill="#91d0d0" font-size="12" text-anchor="end" font-family="monospace">VALIDATE • VISUALIZE • REPRODUCE</text>
+</svg>
