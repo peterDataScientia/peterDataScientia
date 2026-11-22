@@ -6,12 +6,6 @@
   <a href="https://github.com/peterDataScientia/PanDoc"><img src="https://img.shields.io/badge/MOLECULAR_DOCKING-PANDOCKLAB-25CBBE?style=for-the-badge&amp;labelColor=0B1929" alt="PanDockLab" /></a>
 </div>
 
-## Not just another computational pipeline.
-
-This work spans **chemoinformatics, molecular modelling, machine learning and scientific software engineering**, with tools addressing the questions that come **before** and **after** a computational result: *Was the input chemically sound? Can we reproduce the calculation? Can someone independently inspect the evidence?*
-
-My work connects **molecules → models → mechanisms → interpretable scientific outputs**.
-
 <div align="center">
   <img src="./assets/research-pipeline.svg" alt="Animated workflow connecting molecular structures, modeling, validation, networks and publication figures" width="100%" />
 </div>
