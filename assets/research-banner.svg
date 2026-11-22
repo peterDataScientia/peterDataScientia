@@ -1,16 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Peter DataScientia</title><desc id="desc">Navy and turquoise molecular research profile banner</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset="1" stop-color="#173852"/></linearGradient><radialGradient id="halo"><stop stop-color="#26DBDC" stop-opacity=".22"/><stop offset="1" stop-color="#26DBDC" stop-opacity="0"/></radialGradient></defs>
-<rect width="1200" height="300" rx="16" fill="url(#bg)"/>
-<circle cx="1040" cy="150" r="230" fill="url(#halo)"/>
-<g stroke="#38D6D8" stroke-opacity=".55" stroke-width="2" fill="none">
-<path d="M790 72 857 42 930 80 1008 53 1090 108 1145 70 M790 72 825 145 910 163 930 80 M825 145 784 226 876 254 910 163 992 218 1090 108 1147 192 992 218 M1008 53 1028 142 910 163 M1028 142 1090 108"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".52" stop-color="#10263b"/><stop offset="1" stop-color="#061421"/></linearGradient>
+  <linearGradient id="glow"><stop stop-color="#18bfc1"/><stop offset="1" stop-color="#b0fff5"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#63b1b5" stroke-opacity=".11"/></pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="12"/></filter>
+  <style>
+    .rot{transform-origin:980px 178px;animation:spin 36s linear infinite}
+    .counter{transform-origin:980px 178px;animation:spin 22s linear infinite reverse}
+    .pulse{animation:pulse 2.9s ease-in-out infinite alternate}
+    .cursor{animation:blink 1.2s steps(2) infinite}
+    .travel{animation:travel 7s ease-in-out infinite alternate}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes pulse{to{opacity:.34}}
+    @keyframes blink{50%{opacity:0}}
+    @keyframes travel{to{transform:translateX(14px)}}
+  </style>
+</defs>
+<rect width="1200" height="360" rx="12" fill="url(#bg)"/>
+<rect width="1200" height="360" fill="url(#grid)"/>
+<path d="M0 54H1200M0 305H1200" stroke="#4caeb0" stroke-opacity=".27"/>
+<text x="54" y="33" font-family="monospace" font-size="12" letter-spacing="3" fill="#7bbdc2">PDS / RESEARCH OBSERVATORY</text>
+<text x="1139" y="33" text-anchor="end" font-family="monospace" font-size="12" fill="#7bbdc2">LAB :: 001</text>
+<rect x="49" y="79" width="4" height="168" fill="#20d2cc"/>
+<text x="75" y="116" font-family="monospace" font-size="17" letter-spacing="4" fill="#50d8d3">MOLECULES · MODELS · MECHANISMS</text>
+<text x="72" y="175" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="800" letter-spacing="1" fill="#f2fdff">PETER</text>
+<text x="72" y="233" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="800" letter-spacing="1" fill="#f2fdff">DATASCIENTIA<tspan class="cursor" fill="#20d2cc">_</tspan></text>
+<text x="75" y="273" font-family="monospace" font-size="15" fill="#94bfc8">COMPUTATIONAL CHEMISTRY / SCIENTIFIC SOFTWARE</text>
+<g transform="translate(0 0)">
+  <circle cx="980" cy="178" r="137" fill="#1ddacb" opacity=".06" filter="url(#soft)"/>
+  <circle cx="980" cy="178" r="113" fill="none" stroke="#45bcc1" stroke-opacity=".32" stroke-dasharray="3 8"/>
+  <circle cx="980" cy="178" r="88" fill="none" stroke="#5ef3e4" stroke-opacity=".45"/>
+  <g class="rot" fill="none" stroke="#54e6dd" stroke-width="2.5" stroke-linecap="round">
+    <ellipse cx="980" cy="178" rx="102" ry="39" transform="rotate(35 980 178)"/>
+    <ellipse cx="980" cy="178" rx="102" ry="39" transform="rotate(-35 980 178)"/>
+    <ellipse cx="980" cy="178" rx="102" ry="39" transform="rotate(90 980 178)"/>
+    <circle cx="891" cy="132" r="8" fill="#50eee3"/>
+    <circle cx="1054" cy="246" r="7" fill="#b5fff6"/>
+  </g>
+  <g class="counter"><circle cx="980" cy="178" r="46" fill="none" stroke="#74fcf0" stroke-opacity=".65" stroke-dasharray="7 14"/><path d="M957 170L980 150L1004 168L999 197L971 204Z" fill="#0b3845" stroke="#c6fffa" stroke-width="2.5"/><circle cx="980" cy="150" r="6" fill="#63f5e9"/><circle cx="957" cy="170" r="6" fill="#63f5e9"/><circle cx="1004" cy="168" r="6" fill="#63f5e9"/><circle cx="999" cy="197" r="6" fill="#63f5e9"/><circle cx="971" cy="204" r="6" fill="#63f5e9"/></g>
+  <circle class="pulse" cx="980" cy="178" r="12" fill="#defffd"/>
 </g>
-<g fill="#67F1EB"><circle cx="790" cy="72" r="7"/><circle cx="857" cy="42" r="5"/><circle cx="930" cy="80" r="9"/><circle cx="1008" cy="53" r="6"/><circle cx="1090" cy="108" r="10"/><circle cx="1145" cy="70" r="6"/><circle cx="825" cy="145" r="8"/><circle cx="910" cy="163" r="11"/><circle cx="784" cy="226" r="6"/><circle cx="876" cy="254" r="8"/><circle cx="992" cy="218" r="9"/><circle cx="1147" cy="192" r="6"/><circle cx="1028" cy="142" r="6"/></g>
-<g fill="#ffffff" font-family="Arial,Helvetica,sans-serif">
-<text x="66" y="113" font-size="51" font-weight="700" letter-spacing="1">PETER DATASCIENTIA</text>
-<text x="70" y="162" font-size="22" fill="#68E9E5" font-weight="600">COMPUTATIONAL CHEMISTRY  /  AI-DRIVEN DRUG DISCOVERY</text>
-<text x="70" y="205" font-size="20" fill="#C3D7E3">Chemoinformatics  •  Molecular Modeling  •  Scientific Software</text>
-</g>
-<path d="M70 235 H650" stroke="#32CBD3" stroke-width="3" opacity=".8"/>
+<path class="travel" d="M690 291h105l19-22 20 38 23-26h62" fill="none" stroke="#23e3d5" stroke-width="2" opacity=".8"/>
+<text x="52" y="333" font-family="monospace" font-size="12" fill="#7dbac2" letter-spacing="2">RESEARCH / OPEN METHODS / REPRODUCIBILITY</text>
+<text x="1147" y="333" font-family="monospace" font-size="12" fill="#7dbac2" text-anchor="end">IRINGA · TANZANIA</text>
 </svg>
